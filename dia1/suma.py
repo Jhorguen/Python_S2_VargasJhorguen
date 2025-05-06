@@ -10,5 +10,7 @@ num2 = int(input("Ingresa el segundo numero a sumar"))
 resultado = num1 + num2
 print(resultado)
 
+
+#IMPRIMO LA SUMNA DE LOS DOS NUMERO CONCATENANDO LA VARIABLE RESULTADO CONVIRTIENDOLA EN STRING PARA PORDER CONCATENARLA#
 print("El resultado de tu suma es: "+ str(resultado))
 
