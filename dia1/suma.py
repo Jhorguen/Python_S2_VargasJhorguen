@@ -1,4 +1,3 @@
-
 print("Hola bienvenido a mi calculadora")
 
 #PIDO Y CONVIERTO EN ENTERO CADA DATO INGRESADO#
@@ -13,4 +12,3 @@ print(resultado)
 
 #IMPRIMO LA SUMNA DE LOS DOS NUMERO CONCATENANDO LA VARIABLE RESULTADO CONVIRTIENDOLA EN STRING PARA PORDER CONCATENARLA#
 print("El resultado de tu suma es: "+ str(resultado))
-
