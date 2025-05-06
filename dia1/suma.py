@@ -1,4 +1,3 @@
-
 print("Hola bienvenido a mi calculadora")
 
 #PIDO Y CONVIERTO EN ENTERO CADA DATO INGRESADO#
@@ -11,4 +10,3 @@ resultado = num1 + num2
 print(resultado)
 
 print("El resultado de tu suma es: "+ str(resultado))
-
